@@ -10,3 +10,7 @@ From the simplest tasks to solving the most complex calculus problem (*\*cough\*
 Number classification is the foundation of all mathematical concepts.
 It help us organize and understand numerical systems, allow us to understand patterns, relationships and advanced theories.
 Whether trying to solving equations, analyzing data, or programming algotihms, classification of number provide the essential framework.
+In this topic, we'll learn the hierarchy of numbers, from natural numbers to complex numbers and understand their properties and relationships. 
+
+## Types of Numbers
+![image](Assets/Classification_of_Numbers_Hierarchy_of_Numbers.png)
