@@ -33,8 +33,6 @@ Have suggestions, found errors, or need help? Feel free to open an issue in this
 
 Happy learning! 🎓
 
-# Additional Notes for University of Surabaya Students KP Z 
-
-## Material 
-### Week 1
+# Roadmap 🛣️ 
+## Week 1
 1. Classification of Numbers
