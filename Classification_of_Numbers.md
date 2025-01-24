@@ -14,3 +14,18 @@ In this topic, we'll learn the hierarchy of numbers, from natural numbers to com
 
 ## Types of Numbers
 ![image](Assets/Classification_of_Numbers_Hierarchy_of_Numbers.png)
+
+### Complex 
+All numbers which can be expressed in the form $a+bi$ where $a$ and $b$ are real numnbers and $i=\sqrt{-1}$.
+Each complex number is a combination of a real number ($\Re$ or $\mathbb{R}$) and an imaginary number $\Im$.
+
+Set Examples :
+
+$${1+2i,1,i,-3i,0,-5+i}$$
+
+### Imaginary 
+Numbers which are the product of a real number and the imaginary unit $i$ where $i=\sqrt{-1}$.
+
+Set Examples :
+
+$${2i=\sqrt{-4},-3i=-\sqrt{-25}}$$
