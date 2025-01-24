@@ -12,10 +12,6 @@ We understand that mathematical concepts can sometimes be challenging to grasp i
 
 > **Note:** The Markdown files are best viewed on desktop for optimal display of mathematical equations.
 
-## Topics Covered
-1. Classification of Numbers
-2. (Add more topics here...)
-
 ## How to Use
 1. **Browse Notes:** Access the topic folders in the repository.
 2. **Start Learning:** Read the notes, and practice with the exercises provided.
@@ -33,6 +29,11 @@ Have suggestions, found errors, or need help? Feel free to open an issue in this
 
 Happy learning! 🎓
 
-# Roadmap 🛣️ 
-## Week 1
+# Topics Covered
+1. Classification of Numbers
+2. (Add more topics here...)
+
+
+## Roadmap 
+### Week 1
 1. Classification of Numbers

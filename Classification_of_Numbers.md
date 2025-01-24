@@ -24,7 +24,7 @@ $$\mathbb{C}$$
 
 Set Examples :
 
-{$$1+2i,1,i,-3i,0,-5+i$$}
+$$1+2i,1,i,-3i,0,-5+i$$
 
 ### Imaginary 
 Numbers which are the product of a real number and the imaginary unit $i$ where $i=\sqrt{-1}$.
@@ -34,4 +34,31 @@ $$\Im$$ or {Im}
 
 Set Examples :
 
-{$$2i=\sqrt{-4},-5i=-\sqrt{-25}$$}
+$$2i=\sqrt{-4},-5i=-\sqrt{-25}$$
+
+### Real 
+Numbers that correspond to points along a line. They can be positive, negative, or zero.
+
+Symbols :
+$$\mathbb{R}$$ or {Re}
+
+Set Examples :
+
+$$\frac{1}{5},1,0,-3,\sqrt{\frac{1}{2}}$$
+
+### Irrational 
+All real numbers which can't be expressed as a fraction $\frac{n}{p}$ whose numerator and denominator are integers.
+(i.e. all real numbers which aren't rational).
+
+Symbols :
+$$\mathbb{I}$$
+
+Set Examples :
+
+$$\pi,\sqrt{2},\sqrt{3}$$
+
+
+
+
+
+
