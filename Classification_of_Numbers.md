@@ -1,19 +1,23 @@
-# Classification of Numbers (Number Systems)
+# 🔢 Classification of Numbers (Number Systems)
 
-## Introduction 
-Let's think about our daily life, where counting our steps, checking the time, calculating your expenses or just simply measuring weight of our ingredients to cook our favourite meal. 
-Have you ever wondered that human use different kinds of numbers for these tasks? 
-Why are some numbers whole while others contain decimals point and what's the deal with numbers like $\sqrt{2}$ or some weird symbols that represent other numbers like $\pi$?
-Understanding differences of numbers and how to classidied them are going to help us structure behind everything we will in mathematics. 
-From the simplest tasks to solving the most complex calculus problem (*\*cough\* subtle foreshadowing*).
+## 🌟 Introduction
+Numbers are everywhere! Whether you're counting steps, checking the time, calculating expenses, or measuring ingredients for your favorite meal, numbers play a crucial role in daily life. But have you ever wondered why some numbers are whole while others include decimals? Or why symbols like \( \pi \) and \( \sqrt{2} \) exist? 🤔
 
-Number classification is the foundation of all mathematical concepts.
-It help us organize and understand numerical systems, allow us to understand patterns, relationships and advanced theories.
-Whether trying to solving equations, analyzing data, or programming algotihms, classification of number provide the essential framework.
-In this topic, we'll learn the hierarchy of numbers, from natural numbers to complex numbers and understand their properties and relationships. 
+Understanding how numbers are classified helps us unlock the hidden structure behind mathematics, from simple tasks to advanced calculus (*cough* foreshadowing *cough* 😏).
 
-## Types of Numbers
-![image](Assets/Classification_of_Numbers_Hierarchy_of_Numbers.png)
+Number classification is the foundation of all mathematical concepts, allowing us to:
+
+✅ Organize and understand different numerical systems.
+✅ Identify patterns and relationships between numbers.
+✅ Build a strong foundation for solving equations, analyzing data, and programming algorithms.
+
+Let's dive into the fascinating **hierarchy of numbers** and explore their unique properties! 🚀
+
+---
+
+## 📊 Types of Numbers
+
+![📈 Number System Hierarchy](Assets/Classification_of_Numbers_Hierarchy_of_Numbers.png)
 
 ### Complex 
 All numbers which can be expressed in the form $a+bi$ where $a$ and $b$ are real numnbers and $i=\sqrt{-1}$.
@@ -57,8 +61,42 @@ Set Examples :
 
 $$\pi,\sqrt{2},\sqrt{3}$$
 
+### Rational
+
+All real numbers which can be expressed as a fraction, $\frac{p}{q}$ where $p$ and $q$ are integers and $q \neq 0$. 
+All integers are rational numbers as 1 is a non-zero integer.
+
+Symbols :
+$$\mathbb{Q}$$
+
+Set Examples : 
+$$\frac{1}{5},\frac{5}{1}$$
 
 
+### Integers 
+All positive and negative whole numbers.
+
+Symbols :
+$$\mathbb{Z}$$
+
+Set Examples :
+$$...,-2,-1,0,1,2,...$$
+
+### Whole 
+All positive whole numbers and zero.
+
+Symbols :
+$$\mathbb{W}$$
+
+Set Examples :
+$$0,1,2,...$$
+
+### Natural
+Numbers used for counting (all positive integers).
 
 
+Symbols :
+$$\mathbb{N}$$
 
+Set Examples :
+$$1,2,...$$
