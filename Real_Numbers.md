@@ -29,10 +29,12 @@ Real number operations satisfy several important properties, including:
 - **Inverse:** For every real number, there exists an inverse element (e.g., -a for addition, 1/a for multiplication, except for 0).
 
 > **Substraction are define by :**
+> 
 > $$x-y=x+(-y)$$
 
 
 > **Division are define by :**
+> 
 > $$\frac{x}{y}=x(\frac{1}{y})$$
 
 
