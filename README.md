@@ -36,4 +36,7 @@ Happy learning! 🎓
 
 ## Roadmap 
 ### Week 1
-1. Classification of Numbers ![Press Here!](Classification_of_Numbers.md)
+1. Classification of Numbers 
+2. Real Numbers 
+3. Real Numbers Advanced
+4. Inequality
