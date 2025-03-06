@@ -121,5 +121,3 @@ a) Find the period and amplitude of \( f(x) = 3\sin(2x) \).
 b) Find all solutions to \( \cos x = \frac{1}{2} \) in the interval \( [0, 2\pi] \).  
 
 ---
-
-Would you like additional exercises or modifications based on specific difficulty levels? 😊
