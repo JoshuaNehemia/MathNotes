@@ -7,9 +7,9 @@ A function $f$ is a rule that assigns each element from a set called the **domai
 
 In mathematical notation, a function is written as:
 
-\[
-f: D_f \to R_f
-\]
+\
+f: D_f \to R_fn 
+\
 
 where:
 - $D_f$ represents the **domain** (the set of all possible input values)
